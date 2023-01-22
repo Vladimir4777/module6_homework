@@ -1,2 +1,1 @@
-# module6_homework
-homework function JS
+# :white_check_mark: homework function JS.
